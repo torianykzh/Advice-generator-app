@@ -1,3 +1,5 @@
+import 'babel-polyfill'
+
 const advId = document.getElementById("adv-id")
 const advText = document.getElementById("adv-text")
 const btn = document.querySelector('.btn')
